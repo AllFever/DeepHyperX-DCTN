@@ -1,0 +1,6 @@
+
+python main.py --model vit --dataset PaviaU --training_sample 0.1 --patch_size 15 --epoch 200 --cuda 0
+
+python main.py --model DCTN --dataset PaviaU --training_sample 0.1 --patch_size 15 --epoch 200 --cuda 0
+
+
